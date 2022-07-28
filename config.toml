@@ -1,6 +1,6 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Levasseur Electric'
 theme = "hugo-hero-theme"
 
 [module]
@@ -12,13 +12,13 @@ theme = "hugo-hero-theme"
   google_analytics_id=""
 
   [params.logo]
-    mobile = "images/logo-mobile.svg"
+    mobile = "images/levasseureelecLogo-prop.svg"
     mobile_height = "36px"
     mobile_width = "36px"
-    desktop = "images/logo.svg"
+    desktop = "images/levasseureelecLogo-prop.svg"
     desktop_height = "29px"
     desktop_width = "217px"
-    alt = "Hugo Hero"
+    alt = "Levasseur Electric"
 
   [params.homepage_meta_tags]
     meta_description = ""
