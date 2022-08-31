@@ -6,11 +6,11 @@ featured: true
 draft: false
 weight: 100
 heroHeading: 'Services'
-heroSubHeading: 'Services that grow with your business'
+heroSubHeading: 'Commercial, Industrial and Residential'
 heroBackground: 'services/service1.jpg'
 ---
 
-Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum
+Testing location of change Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum
 de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
 crimen habet Priamum nec.
 
